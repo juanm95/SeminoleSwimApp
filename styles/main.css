@@ -33,13 +33,13 @@ body {
 }
 
 #minutes {
-  margin-right: -46px;
+  margin-right: -40px;
 }
 #seconds {
-  margin-right: -33px;
+  margin-right: -22px;
 }
 #milliseconds {
-  margin-right: -26px;
+  margin-right: 0;
 }
 #convert {
   background-color: #7ED321;
