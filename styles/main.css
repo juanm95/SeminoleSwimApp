@@ -13,8 +13,8 @@ body {
   font-weight: 700;
   color:  #005395;
 }
-.input-field.card.col {
-  margin-right: 10px;
+.input-field {
+  text-align: center;
 }
 .input-field > select {
   font-size: 2em;
