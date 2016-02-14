@@ -24,7 +24,9 @@ body {
     border-radius: 4px;
     -webkit-appearance:none;
 }
-
+select {
+  height: 4rem;
+}
 .nav-wrapper {
   font-size:1.5em;
   font-weight: normal;
