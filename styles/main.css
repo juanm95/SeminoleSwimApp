@@ -18,6 +18,7 @@ body {
   text-align: center;
 }
 .input-field > select {
+  margin-top: -12px;
   height: 4.5rem;
   font-size: 2em;
 		font-weight: 700;
