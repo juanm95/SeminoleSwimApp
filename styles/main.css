@@ -26,6 +26,7 @@ body {
 }
 
 .nav-wrapper {
+  font-size:1.5em;
   font-weight: normal;
   background-color: #7ED321;
 }
