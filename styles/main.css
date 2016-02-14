@@ -23,6 +23,10 @@ body {
     -webkit-appearance:none;
 }
 
+nav-wrapper {
+  background-color: #7ED321;
+}
+
 option {
 	font-weight: 700;
 }
