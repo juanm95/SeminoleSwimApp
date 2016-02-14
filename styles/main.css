@@ -17,7 +17,6 @@ body {
   text-align: center;
 }
 .input-field > select {
-  margin-right: -46px;
   font-size: 2em;
 		font-weight: 700;
     border: none;
@@ -28,4 +27,14 @@ body {
 .nav-wrapper {
   font-weight: normal;
   background-color: #7ED321;
+}
+
+#minutes {
+  margin-right: -46px;
+}
+#seconds {
+  margin-right: -33px;
+}
+#milliseconds {
+  margin-right: -26px;
 }
