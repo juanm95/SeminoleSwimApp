@@ -13,9 +13,10 @@ body {
   font-weight: 700;
   color:  #005395;
 }
-
+.input-field > .card {
+  margin-right: 10px;
+}
 .input-field > select {
-    margin-right: 10px;
 		font-weight: 700;
     border: none;
     border-radius: 4px;
