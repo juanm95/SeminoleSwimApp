@@ -34,6 +34,7 @@ body {
   object-fit: contain;
   max-height: 100%;
   width: auto;
+  margin-left: 2vmin;
 }
 #minutes {
   /*margin-right: -48px;*/
@@ -52,7 +53,7 @@ body {
   margin-top: 5vmin;
 }
 #title {
-  padding-right: 80px;
+  margin-right: 2vmin;
 }
 #units {
   height: 100%;
