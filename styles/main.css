@@ -45,7 +45,11 @@ body {
   /*margin-right: -8px;*/
 }
 #convert {
+  height: 10vmin;
   background-color: #7ED321;
+  padding-right: 5vmin;
+  padding-left: 5vmin;
+  margin-top: 5vmin;
 }
 #title {
   padding-right: 80px;
