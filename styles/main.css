@@ -35,6 +35,7 @@ body {
 #logo {
   object-fit: contain;
   max-height: 100%;
+  width: auto;
 }
 #minutes {
   margin-right: -48px;
