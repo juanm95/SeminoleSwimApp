@@ -55,5 +55,7 @@ body {
   height: 100%;
 }
 .time-label {
-  margin-top: -1vmin;
+  position: absolute;
+  bottom: 0px;
+  right: 30%;
 }
