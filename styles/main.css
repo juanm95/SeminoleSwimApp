@@ -20,7 +20,7 @@ body {
 .input-field > select {
   padding: 0;
   margin-top: -12px;
-  font-size: 14vmin;
+  font-size: 13vmin;
 		font-weight: 700;
     border: none;
     border-radius: 4px;
@@ -53,4 +53,7 @@ body {
 }
 #units {
   height: 100%;
+}
+.time-label {
+  margin-top: -1vmin;
 }
