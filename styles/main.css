@@ -20,7 +20,7 @@ body {
 .input-field > select {
   padding: 0;
   margin-top: -12px;
-  height: 4.5rem;
+  height: 14vmin;
   font-size: 2em;
 		font-weight: 700;
     border: none;
