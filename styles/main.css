@@ -55,6 +55,6 @@ body {
 }
 .time-label {
   font-size: 6vmin;
-  position: relative;
-  bottom: 5vmin;
+  position: absolute;
+  bottom: 0;
 }
